@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/QiangZhang-QZ/AboutMe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I am a Ph.D. candidate at Neuromuscular Control and Robotics Lab at UNC/NCSU Joint Department of Biomedical Engineering, North Carolina State University, working under the supervision of Dr. Nitin Sharma. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
