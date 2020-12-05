@@ -1,34 +1,12 @@
 ### About Me
 
-I am a Ph.D. candidate at Neuromuscular Control and Robotics Lab at UNC/NCSU Joint Department of Biomedical Engineering, North Carolina State University, working under the supervision of Dr. Nitin Sharma. 
-### Markdown
+I am a Ph.D. candidate at Neuromuscular Control and Robotics Lab at UNC/NCSU Joint Department of Biomedical Engineering, North Carolina State University, working under the supervision of Dr. Nitin Sharma. My research interests are in the areas of human motion intention detection, neuromuscular electrical stimulation (NMES) control, exoskeleton adaptive control, Lyapunov-based nonlinear control, nonlinear observer design, and sensor fusion with multi-rate.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My current research efforts are on human ankle joint effort prediction by using ultrasound imaging and surface electromyography fusion, assist-as-needed control of ankle exoskeleton during walking, and NMES-elicited ankle joint trajectory tracking control with ultrasound imaging-based muscle state feedback. I have collaborated on iterative learning control of a lower limb hybrid neuroprosthesis for sit-to-stand task, as well as model predictive control of elbow joint by stimulating antagonistic muscles.
 
-```markdown
-Syntax highlighted code block
+Prior to my Ph.D. program, I got my becholar and master degrees in Mechanical Engineering both from Wuhan University, China. My research work during master study focused on the development of an upper limb exoskeleton robot with four active degrees of freedom and two passive degrees of freedom. Each active DOF is actuated by a customized serial elastic actuator plus Bowden cable. 
 
-# Header 1
-## Header 2
-### Header 3
+I have published my research work in various scientific peer-reviewed journals and conferences of IEEE, EMBS, IFAC, and ASME societies (17 published in total and 5 under review). I have been nominated as one finalist for the Best Student Paper Award at the 16th IEEE/RAS-EMBS International Conference on Rehabilitation Robotics (ICORR 2019).
 
-- Bulleted
-- List
+My academic training and more than seven years of experience working as a research assistant in two labs prepare me to be an effective researcher in the areas of human-in-loop robotics, biomechanics analysis, control of biomechatronic devices, and so on. I am always looking for opportunities where I can combine my research acumen with my research experience to help real-world medical needs. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QiangZhang-QZ/AboutMe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
