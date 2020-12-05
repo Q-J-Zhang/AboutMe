@@ -1,4 +1,3 @@
-### About Me
 
 I am a Ph.D. candidate at Neuromuscular Control and Robotics Lab at UNC/NCSU Joint Department of Biomedical Engineering, North Carolina State University, working under the supervision of Dr. Nitin Sharma. My research interests are in the areas of human motion intention detection, neuromuscular electrical stimulation (NMES) control, exoskeleton adaptive control, Lyapunov-based nonlinear control, nonlinear observer design, and sensor fusion with multi-rate.
 
